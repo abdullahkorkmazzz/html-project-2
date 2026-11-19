@@ -1,8 +1,5 @@
 # HTML Ödev 2
 
-Patika Frontend eğitimi kapsamında hazırlanan ikinci HTML ödevim.
+Görseller, bağlantılar ve listeler içeren, HTML ve CSS kullanılarak hazırlanmış kişisel sayfa çalışması.
 
-🔗 **Canlı Demo:** [Proje Linki](https://abdullahkorkmazzz.github.io/html-project-2/)
-
-## Kullanılan Teknolojiler
-- HTML5
+**Canlı Demo:** [Proje Linki](https://abdullahkorkmazzz.github.io/html-project-2/)
