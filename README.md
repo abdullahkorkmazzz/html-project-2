@@ -1,5 +1,5 @@
-# HTML Ödev 2
+# Personal Interests & Media Page
 
-Görseller, bağlantılar ve listeler içeren, HTML ve CSS kullanılarak hazırlanmış kişisel sayfa çalışması.
+A personal page featuring interests, movie/series/book lists, and media showcase built with HTML and CSS.
 
-**Canlı Demo:** [Proje Linki](https://abdullahkorkmazzz.github.io/html-project-2/)
+- **Live Demo:** [View Live Project](https://abdullahkorkmazzz.github.io/personal-interests-page/)
